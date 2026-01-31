@@ -41,6 +41,13 @@ Input Transaksi: Pengguna menambahkan pemasukan/pengeluaran; saldo akan terupdat
 Target Tabungan: Pengguna membuat target baru dan mengupdate saldo tabungan secara berkala.
 Cek Kurs: Pengguna memantau nilai tukar mata uang global di menu Kurs. 
 
+demo aplikasi:
+
+
+https://github.com/user-attachments/assets/f1dad56a-2f32-41ff-aada-b0641248b540
+
+
+
 
 
 
