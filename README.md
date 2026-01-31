@@ -2,7 +2,7 @@
 SmartSpend - Personal Finance Management App 💰
 SmartSpend adalah aplikasi mobile berbasis Flutter yang dirancang untuk membantu pengguna mengelola keuangan pribadi secara efisien dan cerdas. Dengan antarmuka yang modern dan integrasi real-time, pengguna dapat memantau arus kas langsung dari genggaman.
 
-📌 Deskripsi Aplikasi
+#📌 Deskripsi Aplikasi
 
 SmartSpend hadir sebagai solusi digital untuk mencatat setiap pemasukan dan pengeluaran. Aplikasi ini membantu pengguna untuk tetap disiplin pada rencana anggaran dan mencapai target tabungan tertentu dengan sistem pemantauan kemajuan (progress tracking).
 
@@ -42,6 +42,7 @@ Dashboard: Pengguna melihat ringkasan keuangan dan saldo terkini.
 Input Transaksi: Pengguna menambahkan pemasukan/pengeluaran; saldo akan terupdate otomatis.
 Target Tabungan: Pengguna membuat target baru dan mengupdate saldo tabungan secara berkala.
 Cek Kurs: Pengguna memantau nilai tukar mata uang global di menu Kurs. 
+
 
 
 
